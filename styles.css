@@ -1,7 +1,7 @@
 /* Your CSS Code here. */
 .holder {
 	display: grid;
-	grid-template-rows: 200px;
+	grid-template-rows: 100px 100px;
 }
 
 .item-1 {
